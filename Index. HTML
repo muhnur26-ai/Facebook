@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Mahasiswa</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin-top: 100px;
+        }
+
+        .biodata {
+            background-color: white;
+            width: 350px;
+            margin: auto;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background-color: #1877f2;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="biodata">
+        <h1>Biodata Mahasiswa</h1>
+
+        <p><strong>Nama:</strong> Muh. Nur Qalbi</p>
+        <p><strong>NIM:</strong> 51025057</p>
+        <p><strong>Jurusan:</strong> Sistem Informasi</p>
+
+        <!-- Ganti alamat di bawah dengan Facebook atau media sosial Anda -->
+        <a href="https://www.facebook.com/" target="_blank">
+            Link Facebook Saya
+        </a>
+    </div>
+</body>
+</html>
